@@ -5,7 +5,7 @@ class Header extends Component {
     render() {
         return (
             <div className="header">
-                <h1 className="title titleColoer">PhotClicks</h1>
+                <h1 className="title titleColor">PhotClicks</h1>
             </div>
         );
     }
