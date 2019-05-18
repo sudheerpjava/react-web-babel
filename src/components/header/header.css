@@ -1,0 +1,17 @@
+.header {
+    background-color: #e31837;
+    text-align: left;
+    height: 50px;
+    align-self: auto;
+    width: 80%;
+    margin-left: 10%;
+    background: linear-gradient(to right, #e34118 0%, #f6f6f6 100%);
+}
+
+.title {
+    font-size: 30px;
+}
+
+.titleColoer {
+    color: bisque;
+}

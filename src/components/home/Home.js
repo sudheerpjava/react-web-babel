@@ -1,11 +1,11 @@
 import React ,{ Component } from "react";
-
+import  '../../components/home/home.css'
 class Home extends Component {
     render() {
         return (
-            <div>
+            <div className="home">
                 <p>
-                    Welcome to my Home !!!!
+                    Text here
                 </p>
             </div>
         );
