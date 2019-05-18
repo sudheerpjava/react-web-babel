@@ -1,0 +1,9 @@
+.navHeader {
+    background-color: #e31837;
+    text-align: rigth;
+    height: 50px;
+    align-self: auto;
+    width: 850px;
+    margin-left: 10%;
+    background: linear-gradient(to right, black 0%, #f6f6f6 100%);
+}

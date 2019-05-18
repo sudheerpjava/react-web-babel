@@ -1,6 +1,9 @@
 .home {
     height: 400px;
-    width: 80%;
     margin-left: 10%
+}
+.imageLogo{
+    height : "100%";
+    width : "89%"
 }
 
